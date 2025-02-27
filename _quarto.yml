@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "LIBREAS. Library Ideas"
+  navbar:
+    background: primary
+    search: true
+    right: 
+      - text: Aktuelle Ausgabe
+      - text: Archiv
+      - text: edoc pdf-Archiv
+      - text: Autor*innen
+      - icon: github
+        href: https://github.com/NASA-Openscapes
+      - icon: mastodon
+        href: https://fosstodon.org/@openscapes
+ 
+
+  page-footer: 
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)"
+    left: "&copy; CC-BY 4.0, The Authors"
+
+format:
+  html:
+    theme: [sandstone, styles.scss]
+    toc: true
+    toc-location: right
