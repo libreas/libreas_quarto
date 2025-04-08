@@ -29,8 +29,8 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
           
-      - name: Render and Publish
-        if: github.event_name == 'push'
+      - name: Render and Publish 
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: gh-pages
+          target: netlify
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
