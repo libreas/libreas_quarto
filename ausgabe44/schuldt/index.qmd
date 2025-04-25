@@ -21,7 +21,7 @@ format:
       - text: EDOC HU Berlin
         href: https://doi.org/10.18452/28267
         icon: file-pdf
-    shift-heading-level-by: 2
+    shift-heading-level-by: -1
   
 ---
 
@@ -56,7 +56,7 @@ darzustellen.
 > Einsatz handeln, wozu öffentliche, kräftig entwickelte Büchereien
 > notwendig sind.» (Schriewer 1933a: 7f.)
 
-# 1. Einleitung
+### 1. Einleitung
 
 Gegenstand dieses Artikels sind die zu damaliger Zeit
 «Grenzbüchereiarbeit» genannten Tätigkeiten, welchen in Deutschland
@@ -70,7 +70,7 @@ spätestens durch die 1938 erfolgte Angliederung an das Deutsche Reich,
 österreichischen) Volksbüchereiwesens explizit verbunden waren mit einer
 Ideologie, die heute zurecht als explizit rechtsextrem gilt.
 
-## 1.1 Struktur des zeitgenössischen Volksbüchereiwesens
+#### 1.1 Struktur des zeitgenössischen Volksbüchereiwesens
 
 Die sich zu heute unterscheidenden Bezeichnungen sind sichtbarer
 Ausdruck einer damals auch anders als heute strukturierten
@@ -135,7 +135,7 @@ manchmal um die katholischen Bibliotheken. Arbeiterbibliotheken und
 Leihbibliotheken wurden immer als «gegnerische» Einrichtungen angesehen,
 auch die katholischen Bibliotheken wurden nach 1933 wieder abgelehnt.
 
-## 1.2 Fokus und Ziele des Artikels
+#### 1.2 Fokus und Ziele des Artikels
 
 Dieser Artikel beschränkt sich, wie schon gesagt, auf Deutschland und --
 bedingt durch den 1938 erfolgten «Anschluss» an das Deutsche Reich --
@@ -229,7 +229,7 @@ bearbeitete, wurde in der restlichen bibliothekarischen Presse zudem oft
 berichtet. (Vergleiche zum Beispiel Kander 1928) Nicht zuletzt war der
 Verein gut mit den wirtschaftlichen Eliten Deutschlands verbunden.
 
-## 1.3 Struktur des Artikels
+#### 1.3 Struktur des Artikels
 
 Diesem einleitenden Kapitel folgt nun eines (2.), in dem Grundbegriffe
 und Konzepte, welche für die Geschichte der Grenzbüchereiarbeit relevant
@@ -261,14 +261,14 @@ nicht nur die Frage auf, wie erfolgreich die Grenzbüchereiarbeit an sich
 war, sondern auch, was diese Kontinuitäten für das heutige
 Bibliothekswesen bedeuten -- oder nicht bedeuten.
 
-# 2. Grundkonzepte
+### 2. Grundkonzepte
 
 Zur Kontextualisierung der Grenzbüchereiarbeit ist es notwendig, im
 Vorfeld zwei Themenkomplexe, nämlich völkisches Denken und
 Büchereipädagogik, zu klären. Dies geschieht in den folgenden beiden
 Abschnitten.
 
-## 2.1 Völkisches Denken
+#### 2.1 Völkisches Denken
 
 Völkisches Denken, auf dem die «völkische Bewegung» in Deutschland und
 Österreich Ende des 19. und Anfang des 20. Jahrhunderts aufbaute, hat
@@ -281,7 +281,7 @@ den Grundprinzipien anderer Vertreter\*innen abgrenzten und waren an
 sich notorisch untereinander zerstritten. Und dennoch war das Denken
 weit verbreitet. (Breuer 2010)
 
-### 2.1.1 Der Begriff «Volk»
+##### 2.1.1 Der Begriff «Volk»
 
 Im Mittelpunkt des völkischen Denkens steht «das Volk». Das Wort «Volk»
 hat verschiedene Bedeutungen. (Retterrath 2016) Beispielsweise kann es
@@ -315,7 +315,7 @@ das katholische Kirchenvolk, teilweise aber auch das «Schweizervolk»,
 das aber als Bevölkerung einer «Willensnation» (im Gegensatz zum im
 Anschluss geschilderten völkischen Verständnis) verstanden wurde.
 
-### 2.1.2 «Volk» im völkischen Denken
+##### 2.1.2 «Volk» im völkischen Denken
 
 Im völkischen Denken hat der Begriff Volk eine weitere, spezifische
 Bedeutung.
@@ -486,7 +486,7 @@ Bedeutung.
     immer Widersprüche, so auch bei diesen Fragen. (Rosenberger 2020)
 
 
-### 2.1.3 Modernität und Widersprüchlichkeiten des völkischen Denkens
+##### 2.1.3 Modernität und Widersprüchlichkeiten des völkischen Denkens
 
 Bei all dem verstand sich die völkische Bewegung explizit nicht als
 antimodern. (Breuer 2010, Brajer 2020) Sie griff wissenschaftliche
@@ -551,7 +551,7 @@ der ersten Frauenbewegung. (Breuer 2020, Brajer 2020) Die Suche nach
 Entwicklung, war ein Versuch, diese Veränderungen zu verstehen und wohl
 auch, sie zu steuern.
 
-### 2.1.4 Völkische Bewegung und Nationalsozialismus
+##### 2.1.4 Völkische Bewegung und Nationalsozialismus
 
 Der Beginn der völkischen Bewegung wird gemeinhin in den 1870er, 1880er
 Jahren verortet. (Puschner, Schmitz & Ulbricht 1996b, Brajer 2020)
@@ -618,7 +618,7 @@ genannte, «Bund für Deutsche Gotterkenntnis» weiterhin bestehen (Amm
 2012)), ist die völkische Bewegung als massiv umtriebige Szene erst im
 Nationalsozialismus auf- und dann 1945 mit ihm untergegangen.
 
-## 2.2 Büchereipädagogik
+#### 2.2 Büchereipädagogik
 
 Die Arbeit aller Büchereien (nicht nur der Volksbüchereien, sondern auch
 der Schulbibliotheken, Arbeiterbibliotheken und katholischen
@@ -744,7 +744,7 @@ hätten.[^13] Letzteres wurde einfach als gegeben angenommen.
 ![Verein zur Verbreitung guter volkstümlicher Schriften 1918a: 38.](img/buecherliste_arbeiterinnen_2.jpg)
 
 
-## 2.3 Verweis zum Eingangszitat
+#### 2.3 Verweis zum Eingangszitat
 
 Mit dem bis hierher dargestellten Kontext lässt sich das Zitat, welches
 dem Artikel vorangestellt wurde, noch einmal neu lesen. In dem Text, aus
@@ -794,9 +794,9 @@ Denken der Grenzbibliotheksarbeit (oder Schriewers) dar, sondern war
 eher eine Zusammenfassung dessen, was schon in den Jahren zuvor
 geschrieben wurde.
 
-# 3. Grenzbüchereiarbeit während der Weimarer Republik
+### 3. Grenzbüchereiarbeit während der Weimarer Republik
 
-## 3.1 Der *Verein zur Verbreitung guter volkstümlicher Schriften*
+#### 3.1 Der *Verein zur Verbreitung guter volkstümlicher Schriften*
 
 Im Folgenden wird es nun vor allem um den Verein *Grenzbüchereidienst
 e.V*. und seine Entwicklung gehen. Gegründet wurde dieser aber unter
@@ -899,7 +899,7 @@ Listen, die direkt von Volksbüchereien erstellt wurden. Dies wird nur
 die erste von vielen Listen sein, welche der Verein im Laufe der Jahre
 erstellen und dann kostenlos an alle Interessierten verschicken wird.
 
-## 3.2 Verbindung von völkischer Ideologie und Büchereipädagogik
+#### 3.2 Verbindung von völkischer Ideologie und Büchereipädagogik
 
 1920 -- also erst wieder nach dem Ende des Ersten Weltkrieges, aber auch
 nach der Unterzeichnung des Versailler Vertrages, der Revolution in
@@ -1076,7 +1076,7 @@ restlichen Beiträgen angedeutet. «Grenzlandarbeit» wird hier also nicht
 als Infrastrukturföderung von potentialarmen Regionen, sondern explizit
 als eine Art Unterstützung im Kampf «gegen andere Völker» verstanden.
 
-## 3.3 Konkreter «Grenzbüchereidienst»
+#### 3.3 Konkreter «Grenzbüchereidienst»
 
 Der Verein benutzte seine *Mitteilungen* auch für Berichte über seine
 konkrete Arbeit. (Lindmaier 1917, Verein zur Verbreitung guter
@@ -1214,7 +1214,7 @@ effektive Organisation einer Büchereiarbeit, die auf bestimmte Ziele hin
 ausgerichtet war. Der Verein verstand seine Büchereien als moderne
 Einrichtungen.
 
-## 3.4 Zusammenarbeit mit den staatlichen Beratungsstellen
+#### 3.4 Zusammenarbeit mit den staatlichen Beratungsstellen
 
 In den 1920er Jahren begannen also im DACH-Raum Gemeinden und der Staat
 an sich mehr Verantwortung für die Volksbüchereien zu übernehmen. Einer
@@ -1350,9 +1350,9 @@ mehrfach bei den Tagungsberichten dankend erwähnt werden) lassen
 zumindest vermuten, dass ein Teil dieser Mittel auch direkt aus
 staatlichen Quellen stammte.
 
-# 4. Grenzbüchereiarbeit während des Nationalsozialismus
+### 4. Grenzbüchereiarbeit während des Nationalsozialismus
 
-## 4.1 Existenz nach der nationalsozialistischen Machtergreifung
+#### 4.1 Existenz nach der nationalsozialistischen Machtergreifung
 
 Das übergreifende Verhalten des deutschen Volksbüchereiwesens im
 Nationalsozialismus ist als Selbstanpassung beschrieben worden. (Andrae
@@ -1487,7 +1487,7 @@ In gewisser Weise wurden Vorstellungen, die der Verein vor 1933
 vertreten hatte, im Nationalsozialismus also aufgegriffen, radikalisiert
 und als Teil der staatlichen Aufgaben begriffen.[^20]
 
-## 4.2 Grenzbüchereifahrten und Selbstanpassung
+#### 4.2 Grenzbüchereifahrten und Selbstanpassung
 
 Grundsätzlich wurden Verein und Aktive der Grenzbüchereiarbeit also
 recht problemlos in das nationalsozialistische System integriert. Die
@@ -1702,7 +1702,7 @@ Studien geschehen. Es ist also denkbar, dass einzelne Personen einen
 anderen Weg gingen oder aber ganz aus dem Büchereiwesen ausgeschlossen
 wurden. Aber gesamthaft für den Verein gilt dies nicht.
 
-## 4.3 Letzter Bruchpunkt: Zweiter Weltkrieg
+#### 4.3 Letzter Bruchpunkt: Zweiter Weltkrieg
 
 Der letzte Bruchpunkt der Vereinsgeschichte scheint der Beginn des
 Zweiten Weltkrieges gewesen zu sein. Die letzte Publikation über die
@@ -1751,9 +1751,9 @@ als Versuch, sich in den neuen Verhältnissen zu orientieren. Wenn
 Schriewer im vorliegenden Artikel als Beispiel für das deutsche
 Volksbüchereiwesen gilt, dann auch damit.
 
-# 5. Bewertung und Fazit
+### 5. Bewertung und Fazit
 
-## 5.1 Politische und moralische Fragen
+#### 5.1 Politische und moralische Fragen
 
 Wie lässt sich die Geschichte des Vereins für Grenzbüchereidienst im
 Rückblick bewerten? Zuerst ist selbstverständlich klar, dass diese
@@ -1941,7 +1941,7 @@ Position zum Antisemitismus einnahmen. (Puschner, Schmitz & Ulbricht
 daran gehindert, sich später im explizit antisemitischen
 nationalsozialistischen System zu engagieren.
 
-## 5.2 Zum Erfolg der Grenzbüchereiarbeit
+#### 5.2 Zum Erfolg der Grenzbüchereiarbeit
 
 Aber: War der *Grenzbüchereidienst* erfolgreich? Hundertausende, wohl
 eher Millionen von Büchern wurden im Laufe seines Bestehens verschickt.
@@ -2025,7 +2025,7 @@ Volksbüchereiwesens orientierte Arbeit geleistet hat sowie dafür eine
 grosse Masse an Ressourcen mobilisieren konnte, aber das die konkrete
 Wirkung dieser Arbeit nicht mehr nachzuweisen ist.[^26]
 
-## 5.3 Abschliessende Bewertung
+#### 5.3 Abschliessende Bewertung
 
 Geschichte hat keine Moral per se, aber es lässt sich dennoch aus ihr
 lernen. Was die Geschichte der Grenzbüchereiarbeit für das heutige
@@ -2119,7 +2119,7 @@ Volksbüchereien beziehungsweise Öffentliche Bibliotheken eine bestimmte
 Wirkung haben, führt dazu, dass (erstaunlich viele) Ressourcen für die
 bibliothekarische Arbeit mobilisiert werden können.
 
-# 6. Literatur
+### 6. Literatur
 
 Ackerknecht, Erwin. 1918. *Das Lichtspiel im Dienste der Bildungspflege:
 Handbuch für Lichtspielreformer*. Berlin: Weidmann.
@@ -2874,3 +2874,7 @@ Zweck, L. 1937. «Grenzbüchereitagung Aachen-Monschau 23.-28. August
     würden, wie dies vom Verein angedacht wurde. Interessant wäre zu
     untersuchen, ob dies stimmt oder ob in anderen Ländern andere Ziele
     vorherrschten.
+
+---
+
+**Karsten Schuldt**, Dr. Wissenschaftlicher Projektleiter am Schweizerischen Institut für Informationswissenschaft, FH Graubünden. Redakteur der LIBREAS. Library Ideas.
