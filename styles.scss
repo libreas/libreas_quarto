@@ -104,3 +104,12 @@ $code-block-bg: $light-gray !default;
     font-weight: 400;
     src: url('./fonts/fira-mono-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
   }
+
+  #title-block-header {
+    position: relative;
+    
+    // Option 1: Using border-bottom
+    border-bottom: 1px solid #ccc; // You can adjust color and thickness
+    padding-bottom: 1rem; // Add some space before the line
+    margin-bottom: 2rem; // Add some space after the line
+  }
