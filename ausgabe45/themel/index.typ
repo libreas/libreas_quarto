@@ -358,3 +358,7 @@ Schneider, Magdalena Martha Maria und Volf, Patrik-Paul (2021) "Wir gehen viral!
 Solty, Ingar (2021) Krise als Krise / Krise als Chance. Wie aus dem Elend der Gegenwart eine neue demokratischere, sozialere und ökologischere Produktions- und Lebensweise entstehen könnte. In: D.F. Bertz \[Hrsg.\]: Die Welt nach Corona. Von den Risiken des Kapitalismus, den Nebenwirkungen des Ausnahmezustands und der kommenden Gesellschaft. Berlin: Bertz + Fischer Gbr.
 
 Themel, Sarah (2023) "Wir hören einander zu" - Lehrlingsprojekt "Hörbild". Partizipation als Notwendigkeit hin zur Demokratisierung von Arbeitsabläufen. Projektarbeit im Rahmen der hauptamtlichen Ausbildung für Bibliothekar\*innen, 3. Lehrgang, 2019–2021. URL: #link("https://projektarbeiten.bvoe.at/ThemelSarah.pdf")
+
+#horizontalrule
+
+#strong[Sarah Themel] ist Germanistin und arbeitet bei den Stadt Wien Büchereien als Kinderbibliothekarin. Sie schreibt und spielt "feministisches Kasperltheater".
