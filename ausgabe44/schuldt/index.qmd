@@ -21,7 +21,7 @@ format:
       - text: EDOC HU Berlin
         href: https://doi.org/10.18452/28267
         icon: file-pdf
-    shift-heading-level-by: 1
+    shift-heading-level-by: 2
   typst:
      papersize: a4
      keep-typ: true

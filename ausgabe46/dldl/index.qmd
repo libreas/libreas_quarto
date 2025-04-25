@@ -5,7 +5,7 @@ citation:
 license: "CC BY"
 year: "2024"
 author: 
-- "Redaktion LIBREAS"
+- "Reedaktion LIBREAS"
 title: "Das liest die LIBREAS, Nummer #15 (Herbst-Winter 2024)"
 doi: "10.18452/31229"
 date: 2024-12-22
