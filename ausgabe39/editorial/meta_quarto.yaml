@@ -1,0 +1,26 @@
+---
+citation:
+  type: article-journal
+  container-title: "LIBREAS. Library Ideas"
+  volume: 39
+  volume-title: Roboter und Automatisierung
+license: "CC BY"
+lang: "de"
+doi: "10.18452/23437"
+date: "2021-09-30"
+date-format: "MMMM YYYY"
+author:
+title: "Editorial #39: Roboter und Automatisierung"
+
+format:
+  html:
+    other-links:
+      - text: PDF
+        href: main.pdf
+        icon: file-pdf
+      - text: EDOC HU Berlin
+        href: https://doi.org/10.18452/23437
+        icon: file-pdf
+    shift-heading-level-by: -1
+
+---

@@ -1,0 +1,26 @@
+---
+citation:
+  type: article-journal
+  container-title: "LIBREAS. Library Ideas"
+  volume: 39
+  volume-title: Roboter und Automatisierung
+license: "CC BY"
+lang: "de"
+doi: "10.18452/23451"
+date: "2021-10-03"
+date-format: "MMMM YYYY"
+author:
+title: "Communitybuilding über Discord – der DACH-Bibliothekswesen-Server"
+
+format:
+  html:
+    other-links:
+      - text: PDF
+        href: main.pdf
+        icon: file-pdf
+      - text: EDOC HU Berlin
+        href: https://doi.org/10.18452/23451
+        icon: file-pdf
+    shift-heading-level-by: -1
+
+---
